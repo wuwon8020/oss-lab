@@ -4,4 +4,6 @@ def greet(name):
 print("Hello, Git!")
 greet("홍길동")
 
-print("bye")
+print("Bye")
+
+print("debug")
